@@ -9,7 +9,7 @@ FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
 COPY ["dockerapi/dockerapi.csproj", "dockerapi/"]
 RUN dotnet restore "dockerapi/dockerapi.csproj"
-COPY . .
+COPY . ./
 WORKDIR "/src/dockerapi"
 RUN dotnet build "dockerapi.csproj" -c Release -o /app/build
 
