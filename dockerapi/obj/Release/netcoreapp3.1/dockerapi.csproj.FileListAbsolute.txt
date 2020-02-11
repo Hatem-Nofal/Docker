@@ -16,3 +16,9 @@ C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Release\netcoreapp3.1\dock
 C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Release\netcoreapp3.1\dockerapi.RazorTargetAssemblyInfo.cache
 C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Release\netcoreapp3.1\dockerapi.dll
 C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Release\netcoreapp3.1\dockerapi.pdb
+C:\Users\h.nofal\source\repos\dockerapi\dockerapi\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\h.nofal\source\repos\dockerapi\dockerapi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\h.nofal\source\repos\dockerapi\dockerapi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\h.nofal\source\repos\dockerapi\dockerapi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Release\netcoreapp3.1\dockerapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Release\netcoreapp3.1\dockerapi.csproj.CopyComplete
