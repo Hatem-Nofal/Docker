@@ -6,6 +6,8 @@ COPY *.csproj ./
 RUN dotnet restore
 
 COPY . ./
+RUN dotnet build "dockerapi.csproj" -c Release -o /app
+
 RUN dotnet publish -c Release -o out
 
 FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
