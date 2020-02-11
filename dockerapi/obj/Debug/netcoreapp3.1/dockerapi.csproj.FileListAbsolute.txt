@@ -15,4 +15,3 @@ C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Debug\netcoreapp3.1\docker
 C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Debug\netcoreapp3.1\dockerapi.RazorTargetAssemblyInfo.cache
 C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Debug\netcoreapp3.1\dockerapi.dll
 C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Debug\netcoreapp3.1\dockerapi.pdb
-C:\Users\h.nofal\source\repos\dockerapi\dockerapi\obj\Debug\netcoreapp3.1\dockerapi.csprojAssemblyReference.cache
